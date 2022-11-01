@@ -22,7 +22,7 @@
 I am a engineer <img src="https://media.giphy.com/media/1dr2kog5CiGeGmDH4E/giphy.gif" width="30"> with experience in cloud, devops, network automation, security, collaboration, and software development. 
 - :telescope: I’m working as a cloud / devops engineer building compute environments in AWS.
 - :seedling: I’m currently learning AWS DevOps and Ansible
-- ⚡ In my free time, I enjoy climbing :climbing: boulders, :musical_keyboard: modular synths and :bike: mountain biking
+- ⚡ In my free time, I enjoy :climbing: climbing boulders, :musical_keyboard: modular synths and :bike: mountain biking
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/nickbecker-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nick-becker-339411255/)
 
 ---
