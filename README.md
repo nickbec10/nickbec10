@@ -44,7 +44,8 @@ I am a engineer <img src="https://media.giphy.com/media/1dr2kog5CiGeGmDH4E/giphy
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nickbec10&theme=dark&background=022F51)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickbec10&layout=compact&theme=dark&background=022F51)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickbec10&layout=compact&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 nickbec10/nickbec10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
